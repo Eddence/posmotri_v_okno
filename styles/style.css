@@ -123,17 +123,17 @@ ol {
   border-right: none;
   color: #fff;
   padding: 2px 0;
-  font-family: 'Fira Sans Condensed', sans-serif;
-  font-size: 18px;
-  font-weight: 400;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
   background-color: transparent;
   inline-size: 225px;
 }
 
 .search-form__textfield::placeholder {
-  font-family: 'Fira Sans Condensed', sans-serif;
-  font-size: 18px;
-  font-weight: 400;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
   color: rgba(255, 255, 255, 0.7);
 }
 
@@ -174,9 +174,9 @@ ol {
   border: 1px solid currentColor;
   width: 194px;
   height: 34px;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: inherit;
   font-weight: 700;
-  font-size: 18px;
+  font-size: inherit;
   text-align: center;
   color: #fff;
   background-color: transparent;
